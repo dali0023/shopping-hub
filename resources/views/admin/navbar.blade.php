@@ -145,7 +145,7 @@
                     </div>
                   </a>
                   <div class="dropdown-divider"></div>
-                  <p class="p-3 mb-0 text-center">See all notifications</p>
+                  <p class="p-3 mb-0 text-center">notifications</p>
                 </div>
               </li>
               <li>
